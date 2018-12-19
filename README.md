@@ -1,3 +1,3 @@
 # datavizrepo
 
-Edit on web in afternoon
+Edit on RStudio in afternoon
